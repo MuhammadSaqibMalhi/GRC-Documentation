@@ -1,4 +1,17 @@
-# GRC-Documentation | ISO27001 Implementation | Policy Templates
+# ISO/IEC 27001 Implementation Documentation
+
+This repository contains sample documentation and templates developed as part of my **ISO/IEC 27001 Implementation (PECB Certified)** learning and practice.  
+It demonstrates key components of an **Information Security Management System (ISMS)** in alignment with the ISO/IEC 27001 standard.
+
+---
+
+## 📘 Overview
+
+The goal of this repository is to showcase my understanding of information security governance, risk management, and ISMS implementation.  
+All documents are **educational examples** designed to demonstrate how an organization can establish, implement, maintain, and continually improve its information security management system.
+
+---
+
 [6.1 Bring_Your_Own_Device_BYOD_Policy-200618-052247.docx](https://github.com/user-attachments/files/22869533/6.1.Bring_Your_Own_Device_BYOD_Policy-200618-052247.docx)
 
 [6.2 Mobile_Device_and_Teleworking_Policy-200618-052346.docx](https://github.com/user-attachments/files/22869545/6.2.Mobile_Device_and_Teleworking_Policy-200618-052346.docx)
@@ -46,3 +59,29 @@
 [16.2 Incident_Management_Procedure-200618-120450.docx](https://github.com/user-attachments/files/22869572/16.2.Incident_Management_Procedure-200618-120450.docx)
 
 [17 Disaster_Recovery_Plan_27001-200618-121503.docx](https://github.com/user-attachments/files/22869573/17.Disaster_Recovery_Plan_27001-200618-121503.docx)
+
+## 🧠 Key Skills Demonstrated
+
+- ISMS design and documentation  
+- Risk assessment and control selection  
+- ISO/IEC 27001 Annex A control mapping  
+- Policy and procedure development  
+- Information security compliance and governance  
+- Continuous improvement cycle (PDCA model)
+
+---
+
+## 🏅 Certification
+
+**ISO/IEC 27001 Implementation – PECB Certified**  
+Currently also preparing for **ISACA Certified Information Systems Auditor (CISA)** certification.
+
+---
+
+## 📫 Contact
+
+**Muhammad Saqib Malhi**  
+📧 Email: saqib.malhi3@outlook.com  
+🌐 LinkedIn: www.linkedin.com/in/saqib-malhi-957a8598
+💻 GitHub: https://github.com/MuhammadSaqibMalhi
+
