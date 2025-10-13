@@ -5,7 +5,7 @@ It demonstrates key components of an **Information Security Management System (I
 
 ---
 
-## 📘 Overview
+## Overview
 
 The goal of this repository is to showcase my understanding of information security governance, risk management, and ISMS implementation.  
 All documents are **educational examples** designed to demonstrate how an organization can establish, implement, maintain, and continually improve its information security management system.
@@ -60,7 +60,7 @@ All documents are **educational examples** designed to demonstrate how an organi
 
 [17 Disaster_Recovery_Plan_27001-200618-121503.docx](https://github.com/user-attachments/files/22869573/17.Disaster_Recovery_Plan_27001-200618-121503.docx)
 
-## 🧠 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - ISMS design and documentation  
 - Risk assessment and control selection  
@@ -71,14 +71,14 @@ All documents are **educational examples** designed to demonstrate how an organi
 
 ---
 
-## 🏅 Certification
+## Certification
 
 **ISO/IEC 27001 Implementation – PECB Certified**  
 Currently also preparing for **ISACA Certified Information Systems Auditor (CISA)** certification.
 
 ---
 
-## 📫 Contact
+## Contact
 
 **Muhammad Saqib Malhi**  
 📧 Email: saqib.malhi3@outlook.com  
