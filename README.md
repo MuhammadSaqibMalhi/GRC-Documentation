@@ -1,16 +1,124 @@
-# ISO/IEC 27001 Implementation Documentation
-
-This repository contains sample documentation and templates developed as part of my **ISO/IEC 27001 Implementation (PECB Certified)** learning and practice.  
-It demonstrates key components of an **Information Security Management System (ISMS)** in alignment with the ISO/IEC 27001 standard.
-
----
-
 ## Overview
 
-The goal of this repository is to showcase my understanding of information security governance, risk management, and ISMS implementation.  
-All documents are **educational examples** designed to demonstrate how an organization can establish, implement, maintain, and continually improve its information security management system.
+This repository demonstrates a practical implementation of an Information Security Management System (ISMS) aligned with ISO/IEC 27001.
+
+## Business Scenario
+
+This ISMS is designed for a small-to-medium enterprise operating in theindustry, e.g., financial services / mining contractor, handling sensitive operational and customer data.
+The organisation relies on cloud-based systems, employee endpoints, and internal networks to support business operations. Due to regulatory and operational requirements, the organisation must ensure the confidentiality, integrity, and availability of its information assets.
+
+This scenario is used to demonstrate how security policies, controls, and risk management practices can be applied in a real-world business context.
 
 ---
+
+# Risk Assessment
+
+## Risk Assessment Approach
+
+This ISMS uses a structured, risk-based approach aligned with ISO/IEC 27001 to identify, assess, and treat information security risks.
+
+The process includes:
+- Identifying critical assets within the organisation
+- Identifying threats and vulnerabilities affecting those assets
+- Assessing risk based on likelihood and impact
+- Prioritising risks for treatment
+- Mapping risks to appropriate security controls (ISO 27001, NIST CSF, CIS Controls)
+
+---
+
+## Risk Rating Methodology
+
+Risk is evaluated using a qualitative approach:
+
+- **Impact:** Low / Medium / High  
+- **Likelihood:** Low / Medium / High  
+- **Risk Level:** Determined based on the combination of impact and likelihood  
+
+---
+
+## Sample Risk Register
+
+| Asset                     | Threat              | Vulnerability                             | Impact      | Likelihood | Risk Level | Controls                 |
+| ------------------------- | ------------------- | ----------------------------------------- | ----------- | ---------- | ---------- | ------------------------ |
+| Customer Data (Cloud CRM) | Unauthorized Access | No MFA, weak access control               | High        | Medium     | High       | ISO A.9, CIS Control 6   |
+| Employee Endpoints        | Malware/Ransomware  | Unpatched systems, no endpoint protection | High        | High       | High       | ISO A.12, CIS Control 10 |
+| Email System              | Phishing            | Lack of user awareness                    | Medium-High | High       | High       | ISO A.7, CIS Control 14  |
+| Internal Files            | Data Leakage        | No data classification or DLP             | Medium      | Medium     | Medium     | ISO A.8, CIS Control 3   |
+| Network Access            | Unauthorized Access | Weak passwords, no segmentation           | High        | Medium     | High       | ISO A.13, CIS Control 12 |
+
+
+---
+
+## Control Mapping
+
+Identified risks are treated by implementing controls aligned with:
+
+- **ISO/IEC 27001 Annex A**
+- **NIST Cybersecurity Framework (CSF)**
+- **CIS Critical Security Controls**
+
+This approach ensures alignment between compliance requirements and practical risk reduction.
+
+---
+
+## Continuous Improvement
+
+The risk assessment process is reviewed periodically to:
+- Reflect changes in the threat landscape  
+- Incorporate new assets or systems  
+- Improve control effectiveness  
+
+## ISMS Documentation
+
+The following policies and procedures have been developed to support the ISMS and address identified risks:
+
+### Access Control
+- Access Control Policy  
+- Password Policy  
+
+### Asset Management
+- Inventory of Assets  
+- Information Classification Policy  
+
+### Acceptable Use & User Responsibilities
+- Acceptable Use Policy  
+- Confidentiality Statement  
+- Statement of Acceptance of ISMS Documents  
+
+### Mobile & Remote Work
+- Bring Your Own Device (BYOD) Policy  
+- Mobile Device and Teleworking Policy  
+
+### Operations Security
+- Backup Policy  
+- Change Management Policy  
+- Operating Procedures for ICT  
+
+### Cryptography
+- Policy on the Use of Cryptographic Controls  
+
+### Physical & Environmental Security
+- Clear Desk and Clear Screen Policy  
+- Secure Areas Procedures  
+- Disposal and Destruction Policy  
+
+### Communications Security
+- Information Transfer Policy  
+
+### Secure Development
+- Secure Development Policy  
+- Security Requirements Specification  
+
+### Supplier Security
+- Supplier Security Policy  
+- Security Clauses for Third Parties  
+
+### Incident Management & Business Continuity
+- Incident Management Procedure  
+- Incident Log  
+- Disaster Recovery Plan  
+
+The below policies are designed to mitigate identified risks and are aligned with ISO/IEC 27001 Annex A controls.
 
 [6.1 Bring_Your_Own_Device_BYOD_Policy-200618-052247.docx](https://github.com/user-attachments/files/22869533/6.1.Bring_Your_Own_Device_BYOD_Policy-200618-052247.docx)
 
